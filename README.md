@@ -8,7 +8,9 @@ a. Setting Configurasi di Wortel
   - ```
     mkdir /etc/bind/jarkom
     ```
-  - ```nano /etc/bind/named.conf.local```
+  - ```
+    nano /etc/bind/named.conf.local
+    ```
 
     ```c
     zone "bayam.F05.com" {
