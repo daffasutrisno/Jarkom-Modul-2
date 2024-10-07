@@ -20,18 +20,18 @@ a. Setting Configurasi Webserver di Wortel
     ```
     ```c
     zone "bayam.F05.com" {
-        type master;
-        file "/etc/bind/Jarkom/bayam.F05.com";
+            type master;
+            file "/etc/bind/jarkom/bayam.F05.com"
     };
     
     zone "brokoli.F05.com" {
             type master;
-            file "/etc/bind/Jarkom/brokoli.F05.com";
+            file "/etc/bind/jarkom/brokoli.F05.com";
     };
     
     zone "buncis.F05.com" {
             type master;
-            file "/etc/bind/Jarkom/buncis.F05.com";
+            file "/etc/bind/jarkom/buncis.F05.com";
     };
 
     ```
