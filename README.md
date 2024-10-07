@@ -1,6 +1,11 @@
 ## Jarkom-Modul-2
 
-# 1. Konfigurasi Internet
+# 1. Konfigurasi Internet dan Requirement
+
+a. Setup Router
+b. Setup DNS
+c. Setup Client
+d. Setup Webserver
 
 # 2. Domain Tiap Webserver
 
