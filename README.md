@@ -103,3 +103,9 @@ c. Setting Domain
     @       IN      NS      brokoli.F05.com.
     @       IN      A       10.69.2.4
     ```
+  - ```
+    service bind9 restart
+    ```
+
+## 3. Domain Alias pada Bayam Webserver dan Brokoli Webserver
+
