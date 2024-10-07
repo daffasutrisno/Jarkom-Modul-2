@@ -2,10 +2,10 @@
 
 # 1. Konfigurasi Internet dan Requirement
 
-a. Setup Router
-b. Setup DNS
-c. Setup Client
-d. Setup Webserver
+  a. Setup Router
+  b. Setup DNS
+  c. Setup Client
+  d. Setup Webserver
 
 # 2. Domain Tiap Webserver
 
