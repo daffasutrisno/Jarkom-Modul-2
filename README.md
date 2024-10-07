@@ -30,4 +30,12 @@ a. Setting Configurasi di Wortel
 
     ```
   
-  - 
+  - ```
+    cp /etc/bind/db.local /etc/bind/jarkom/bayam.F05.com
+    ```
+  - ```
+    cp /etc/bind/db.local /etc/bind/jarkom/brokoli.F05.com
+    ```
+  - ```
+    cp /etc/bind/db.local /etc/bind/jarkom/buncis.F05.com
+    ```
