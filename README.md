@@ -5,8 +5,11 @@
 # 2. Domain Tiap Webserver
 
 a. Setting Configurasi di Wortel
-  - ```mkdir /etc/bind/jarkom```
+  - ```
+    mkdir /etc/bind/jarkom
+    ```
   - ```nano /etc/bind/named.conf.local```
+
     ```c
     zone "bayam.F05.com" {
         type master;
@@ -24,4 +27,5 @@ a. Setting Configurasi di Wortel
     };
 
     ```
+  
   - 
